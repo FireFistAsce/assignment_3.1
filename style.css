@@ -1,0 +1,16 @@
+body{
+    border:2px solid #ccc;
+    border-radius:10px;
+    width:300px;
+    margin:20px;
+}
+h2{
+    background-color: darkgray;
+    color:floralwhite;
+    text-align: center;
+}
+p{
+    color:darkslategray;
+    margin:10px;
+    text-align: justify;
+}
